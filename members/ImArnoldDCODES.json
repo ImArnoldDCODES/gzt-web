@@ -1,0 +1,18 @@
+{
+    "full_name": "Arnold Daniels",
+    "username": "Arnold",
+    "image_url": " https://github.com/ImArnoldDCODES.png",
+    "short_description": "Im a Frontend developer that started coding 2019 but got into it fully 2021.",
+    "role": "Frontend Developer",
+    "links": {
+      "website_or_extra": "YOUR_WEBSITE_URL",
+      "github": "https://github.com/ImArnoldDCODES",
+      "twitter": "https://twitter.com/Arnold00972",
+      "linkedin": "https://www.linkedin.com/in/arnold-daniels-9b26a1218"
+    },
+    "location": {
+      "state": "Ogun State",
+      "country": "Nigeria"
+    },
+    "isActive": true
+  }
